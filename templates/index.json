@@ -1,7 +1,44 @@
 {
   "sections": {
+    "16585030052d45ea4c": {
+      "type": "image-with-text",
+      "blocks": {
+        "16585030056b25f0c9-0": {
+          "type": "heading",
+          "settings": {
+            "heading": "Perfect Protection For Your Character Sleeves",
+            "heading_size": "h0"
+          }
+        },
+        "16585030056b25f0c9-2": {
+          "type": "button",
+          "settings": {
+            "button_label": "Get It Now",
+            "button_link": "shopify:\/\/products\/yanoman-yugioh-sized-sleeves"
+          }
+        }
+      },
+      "block_order": [
+        "16585030056b25f0c9-0",
+        "16585030056b25f0c9-2"
+      ],
+      "settings": {
+        "image": "shopify:\/\/shop_images\/20220722_163206-removebg.png",
+        "height": "adapt",
+        "desktop_image_width": "small",
+        "layout": "text_first",
+        "desktop_content_position": "middle",
+        "desktop_content_alignment": "left",
+        "content_layout": "no-overlap",
+        "color_scheme": "background-1",
+        "mobile_content_alignment": "left",
+        "padding_top": 36,
+        "padding_bottom": 36
+      }
+    },
     "image_banner": {
       "type": "image-banner",
+      "disabled": true,
       "blocks": {
         "heading": {
           "type": "heading",
@@ -31,7 +68,7 @@
         "image_overlay_opacity": 0,
         "image_height": "large",
         "adapt_height_first_image": false,
-        "desktop_content_position": "middle-right",
+        "desktop_content_position": "middle-left",
         "show_text_box": false,
         "desktop_content_alignment": "left",
         "color_scheme": "background-2",
@@ -434,6 +471,7 @@
     }
   },
   "order": [
+    "16585030052d45ea4c",
     "image_banner",
     "1658491905309161e9",
     "1658497791d7b2c3b6",
