@@ -155,6 +155,46 @@
         "padding_bottom": 36
       }
     },
+    "1658498315125a9f13": {
+      "type": "collage",
+      "blocks": {
+        "8b8ad498-a8b5-4c32-96ce-0f7cbaef5402": {
+          "type": "image",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/20220722_163049.jpg",
+            "image_padding": false
+          }
+        },
+        "d6cb7b28-4959-46d4-bba0-06a84a5a6a77": {
+          "type": "image",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/20220722_162945.jpg",
+            "image_padding": false
+          }
+        },
+        "ecd3dbaa-02bf-4093-b5f2-cc058ea4a552": {
+          "type": "image",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/20220722_162816.jpg",
+            "image_padding": false
+          }
+        }
+      },
+      "block_order": [
+        "8b8ad498-a8b5-4c32-96ce-0f7cbaef5402",
+        "d6cb7b28-4959-46d4-bba0-06a84a5a6a77",
+        "ecd3dbaa-02bf-4093-b5f2-cc058ea4a552"
+      ],
+      "settings": {
+        "heading": "Tough Enough But Thin Enough.",
+        "heading_size": "h0",
+        "desktop_layout": "left",
+        "mobile_layout": "collage",
+        "color_scheme": "background-1",
+        "padding_top": 36,
+        "padding_bottom": 36
+      }
+    },
     "1658497690ee9a6558": {
       "type": "featured-product",
       "blocks": {
@@ -217,6 +257,7 @@
     "image_banner",
     "1658491905309161e9",
     "1658497791d7b2c3b6",
+    "1658498315125a9f13",
     "1658497690ee9a6558"
   ]
 }
