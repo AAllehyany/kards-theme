@@ -47,9 +47,44 @@
         "stack_images_on_mobile": false,
         "show_text_below": true
       }
+    },
+    "1658491905309161e9": {
+      "type": "promotional-grid",
+      "blocks": {
+        "101b407d-607f-4213-b2ed-33343f67e309": {
+          "type": "custom",
+          "settings": {
+            "promotion_link": "",
+            "promo_bg": "shopify:\/\/shop_images\/FYHkxGLXEAEiVZH.jpg",
+            "promo_width": 50,
+            "promo_height": "small",
+            "heading": "Complete Tearlaments Deck",
+            "overlay_opacity": 0
+          }
+        },
+        "0f060009-00cb-4bab-901d-abc97b6e3dfc": {
+          "type": "custom",
+          "settings": {
+            "promotion_link": "",
+            "promo_bg": "shopify:\/\/shop_images\/FYCbHR7WAAImPbb.jpg",
+            "promo_width": 50,
+            "promo_height": "medium",
+            "heading": "Complete Spright Deck",
+            "overlay_opacity": 0
+          }
+        }
+      },
+      "block_order": [
+        "101b407d-607f-4213-b2ed-33343f67e309",
+        "0f060009-00cb-4bab-901d-abc97b6e3dfc"
+      ],
+      "settings": {
+        "color_scheme": "background-1"
+      }
     }
   },
   "order": [
-    "image_banner"
+    "image_banner",
+    "1658491905309161e9"
   ]
 }
