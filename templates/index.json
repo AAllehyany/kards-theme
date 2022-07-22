@@ -302,6 +302,38 @@
         "padding_bottom": 52
       }
     },
+    "1658499847aa25533a": {
+      "type": "collage",
+      "blocks": {
+        "62ff46d8-3dc5-4a35-a4e6-a08bd937551e": {
+          "type": "image",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/20220722_172608.jpg",
+            "image_padding": false
+          }
+        },
+        "80106253-df80-4be9-a085-246f484068e8": {
+          "type": "image",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/20220722_173032.jpg",
+            "image_padding": false
+          }
+        }
+      },
+      "block_order": [
+        "62ff46d8-3dc5-4a35-a4e6-a08bd937551e",
+        "80106253-df80-4be9-a085-246f484068e8"
+      ],
+      "settings": {
+        "heading": "Happy Customers Everywhere",
+        "heading_size": "h1",
+        "desktop_layout": "left",
+        "mobile_layout": "collage",
+        "color_scheme": "background-1",
+        "padding_top": 36,
+        "padding_bottom": 36
+      }
+    },
     "1658497690ee9a6558": {
       "type": "featured-product",
       "blocks": {
@@ -368,6 +400,7 @@
     "1658499322370453c5",
     "1658499487ac88876d",
     "165849964445726ae7",
+    "1658499847aa25533a",
     "1658497690ee9a6558"
   ]
 }
