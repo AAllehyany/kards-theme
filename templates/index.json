@@ -251,9 +251,9 @@
       ],
       "settings": {
         "image": "shopify:\/\/shop_images\/20220722_162814.jpg",
-        "height": "small",
+        "height": "adapt",
         "desktop_image_width": "small",
-        "layout": "image_first",
+        "layout": "text_first",
         "desktop_content_position": "bottom",
         "desktop_content_alignment": "left",
         "content_layout": "overlap",
