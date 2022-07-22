@@ -171,19 +171,11 @@
             "text": "<p>A fully sleeved deck with these oversleeves are <strong>thick <\/strong>enough to be protected, but <strong>easy<\/strong> enough to shuffle.<\/p>",
             "text_style": "body"
           }
-        },
-        "1658499078952d82e1-2": {
-          "type": "button",
-          "settings": {
-            "button_label": "Button label",
-            "button_link": ""
-          }
         }
       },
       "block_order": [
         "1658499078952d82e1-0",
-        "1658499078952d82e1-1",
-        "1658499078952d82e1-2"
+        "1658499078952d82e1-1"
       ],
       "settings": {
         "image": "shopify:\/\/shop_images\/20220722_162945.jpg",
@@ -194,6 +186,42 @@
         "desktop_content_alignment": "left",
         "content_layout": "overlap",
         "color_scheme": "background-2",
+        "mobile_content_alignment": "left",
+        "padding_top": 36,
+        "padding_bottom": 36
+      }
+    },
+    "1658499322370453c5": {
+      "type": "image-with-text",
+      "blocks": {
+        "1658499322bfcedd22-0": {
+          "type": "heading",
+          "settings": {
+            "heading": "One Pack Per Deck",
+            "heading_size": "h1"
+          }
+        },
+        "1658499322bfcedd22-1": {
+          "type": "text",
+          "settings": {
+            "text": "<p>With each pack containing 50 pieces, you only need one pack to sleeve up your whole deck.<\/p>",
+            "text_style": "body"
+          }
+        }
+      },
+      "block_order": [
+        "1658499322bfcedd22-0",
+        "1658499322bfcedd22-1"
+      ],
+      "settings": {
+        "image": "shopify:\/\/shop_images\/20220722_163155.jpg",
+        "height": "adapt",
+        "desktop_image_width": "small",
+        "layout": "image_first",
+        "desktop_content_position": "middle",
+        "desktop_content_alignment": "left",
+        "content_layout": "no-overlap",
+        "color_scheme": "background-1",
         "mobile_content_alignment": "left",
         "padding_top": 36,
         "padding_bottom": 36
@@ -262,6 +290,7 @@
     "1658491905309161e9",
     "1658497791d7b2c3b6",
     "16584990780b1affa8",
+    "1658499322370453c5",
     "1658497690ee9a6558"
   ]
 }
