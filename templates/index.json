@@ -263,6 +263,45 @@
         "padding_bottom": 36
       }
     },
+    "165849964445726ae7": {
+      "type": "rich-text",
+      "blocks": {
+        "1658499644b6fbdfd8-0": {
+          "type": "heading",
+          "settings": {
+            "heading": "<p>\"This is Perfection\"<\/p>",
+            "heading_size": "h1"
+          }
+        },
+        "1658499644b6fbdfd8-1": {
+          "type": "text",
+          "settings": {
+            "text": "<p>I have never looked into any other sleeves after trying these out. I have had my 2018 Sky Striker deck sleeved up in the same oversleeves until they got hit in 2020! And after taking it apart, my comiket Raye sleeves remain intact with zero damage!<\/p>"
+          }
+        },
+        "cbc896b9-9b8b-4d9c-bc90-59184b0511d9": {
+          "type": "caption",
+          "settings": {
+            "caption": "raye is bae - yugioh player, 2020",
+            "text_style": "caption-with-letter-spacing",
+            "text_size": "large"
+          }
+        }
+      },
+      "block_order": [
+        "1658499644b6fbdfd8-0",
+        "1658499644b6fbdfd8-1",
+        "cbc896b9-9b8b-4d9c-bc90-59184b0511d9"
+      ],
+      "settings": {
+        "desktop_content_position": "left",
+        "content_alignment": "left",
+        "color_scheme": "background-1",
+        "full_width": false,
+        "padding_top": 40,
+        "padding_bottom": 52
+      }
+    },
     "1658497690ee9a6558": {
       "type": "featured-product",
       "blocks": {
@@ -328,6 +367,7 @@
     "16584990780b1affa8",
     "1658499322370453c5",
     "1658499487ac88876d",
+    "165849964445726ae7",
     "1658497690ee9a6558"
   ]
 }
