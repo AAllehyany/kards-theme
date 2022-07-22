@@ -334,6 +334,43 @@
         "padding_bottom": 36
       }
     },
+    "1658500384fe7da494": {
+      "type": "image-with-text",
+      "blocks": {
+        "057bd519-301a-4963-bf3d-f57f3c343293": {
+          "type": "heading",
+          "settings": {
+            "heading": "It is my go to since 2014 and I never looked back",
+            "heading_size": "h1"
+          }
+        },
+        "51d0c85a-2b49-4f36-a5d8-e768419a0cf3": {
+          "type": "caption",
+          "settings": {
+            "caption": "famous youtuber, 2022",
+            "text_style": "caption-with-letter-spacing",
+            "text_size": "large"
+          }
+        }
+      },
+      "block_order": [
+        "057bd519-301a-4963-bf3d-f57f3c343293",
+        "51d0c85a-2b49-4f36-a5d8-e768419a0cf3"
+      ],
+      "settings": {
+        "image": "shopify:\/\/shop_images\/20220722_163049.jpg",
+        "height": "small",
+        "desktop_image_width": "medium",
+        "layout": "image_first",
+        "desktop_content_position": "top",
+        "desktop_content_alignment": "left",
+        "content_layout": "no-overlap",
+        "color_scheme": "background-1",
+        "mobile_content_alignment": "left",
+        "padding_top": 36,
+        "padding_bottom": 36
+      }
+    },
     "1658497690ee9a6558": {
       "type": "featured-product",
       "blocks": {
@@ -401,6 +438,7 @@
     "1658499487ac88876d",
     "165849964445726ae7",
     "1658499847aa25533a",
+    "1658500384fe7da494",
     "1658497690ee9a6558"
   ]
 }
