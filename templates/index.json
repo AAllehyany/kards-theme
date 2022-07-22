@@ -26,7 +26,7 @@
         "image": "{{ shop.brand.cover_image }}",
         "image_overlay_opacity": 0,
         "image_height": "large",
-        "adapt_height_first_image": true,
+        "adapt_height_first_image": false,
         "desktop_content_position": "middle-right",
         "show_text_box": true,
         "desktop_content_alignment": "left",
