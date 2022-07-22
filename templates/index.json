@@ -3,18 +3,18 @@
     "image_banner": {
       "type": "image-banner",
       "blocks": {
-        "heading": {
-          "type": "heading",
-          "settings": {
-            "heading": "Pre-Order Now Available",
-            "heading_size": "h0"
-          }
-        },
         "text": {
           "type": "text",
           "settings": {
-            "text": "Power of the elements core set.",
-            "text_style": "subtitle"
+            "text": "say good bye to damage",
+            "text_style": "caption-with-letter-spacing"
+          }
+        },
+        "heading": {
+          "type": "heading",
+          "settings": {
+            "heading": "Tough Sleeves That Last",
+            "heading_size": "h0"
           }
         },
         "button": {
@@ -30,19 +30,19 @@
         }
       },
       "block_order": [
-        "heading",
         "text",
+        "heading",
         "button"
       ],
       "settings": {
         "image": "{{ shop.brand.cover_image }}",
         "image_overlay_opacity": 0,
-        "image_height": "medium",
-        "adapt_height_first_image": false,
-        "desktop_content_position": "bottom-left",
+        "image_height": "large",
+        "adapt_height_first_image": true,
+        "desktop_content_position": "middle-right",
         "show_text_box": true,
         "desktop_content_alignment": "left",
-        "color_scheme": "inverse",
+        "color_scheme": "accent-2",
         "mobile_content_alignment": "center",
         "stack_images_on_mobile": false,
         "show_text_below": true
