@@ -5,14 +5,14 @@
 
     {%- for block in section.blocks -%}
       <div class="x-flex__item x-flex__item--width-{{ block.settings.promo_width }} x-flex__item--height-{{ block.settings.promo_height }}">
-        <div class="x-promotion" style="--x-promotion-overlay-opacity: {{ block.settings.overlay_opacity | divided_by: 100.0 }}">
+        <div class="x-promotion color-{{ block.settings.color_scheme }}" style="--x-promotion-overlay-opacity: {{ block.settings.overlay_opacity | divided_by: 100.0 }}">
           <div class="x-promotion__image">
             <img src="{{ block.settings.promo_bg | image_url: width: 1500 }}"
             class="x-image-cover bottom-left" width="1500" height="100" loading="lazy">
           </div>
           <a class="x-promotion__link" href="{{block.settings.promotion_link }}"></a>
-          <div class="x-promotion__content color-accent-1">
-            <h3>Is it wrong to pick up?</h3>
+          <div class="x-promotion__content">
+            {% comment %} <h3>Is it wrong to pick up?</h3> {% endcomment %}
             <button  class="button">{{ block.settings.heading }}</button>
           </div>
         </div>
