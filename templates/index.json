@@ -35,7 +35,7 @@
         "button"
       ],
       "settings": {
-        "image": "shopify:\/\/shop_images\/pote.png",
+        "image": "{{ shop.brand.cover_image }}",
         "image_overlay_opacity": 0,
         "image_height": "medium",
         "adapt_height_first_image": false,
@@ -50,6 +50,7 @@
     },
     "1658491905309161e9": {
       "type": "promotional-grid",
+      "disabled": true,
       "blocks": {
         "101b407d-607f-4213-b2ed-33343f67e309": {
           "type": "custom",
