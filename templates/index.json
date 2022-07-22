@@ -72,11 +72,23 @@
             "heading": "Complete Spright Deck",
             "overlay_opacity": 0
           }
+        },
+        "cf56167e-0596-4055-a575-552f91de6e0c": {
+          "type": "custom",
+          "settings": {
+            "promotion_link": "",
+            "promo_bg": "shopify:\/\/shop_images\/20220721_103909.jpg",
+            "promo_width": 25,
+            "promo_height": "small",
+            "heading": "Oversleeves",
+            "overlay_opacity": 0
+          }
         }
       },
       "block_order": [
         "101b407d-607f-4213-b2ed-33343f67e309",
-        "0f060009-00cb-4bab-901d-abc97b6e3dfc"
+        "0f060009-00cb-4bab-901d-abc97b6e3dfc",
+        "cf56167e-0596-4055-a575-552f91de6e0c"
       ],
       "settings": {
         "color_scheme": "background-1"
