@@ -118,10 +118,105 @@
       "settings": {
         "color_scheme": "background-2"
       }
+    },
+    "1658497791d7b2c3b6": {
+      "type": "image-with-text",
+      "blocks": {
+        "16584977914ec132aa-0": {
+          "type": "heading",
+          "settings": {
+            "heading": "Life-Long Sleeves",
+            "heading_size": "h1"
+          }
+        },
+        "16584977914ec132aa-1": {
+          "type": "text",
+          "settings": {
+            "text": "<p>With their power and toughness, these sleeves will last you a lifetime. They will prevent damage from reaching to your precious oversleevs and cards, and will stay clean for a long time.<\/p>",
+            "text_style": "body"
+          }
+        }
+      },
+      "block_order": [
+        "16584977914ec132aa-0",
+        "16584977914ec132aa-1"
+      ],
+      "settings": {
+        "image": "shopify:\/\/shop_images\/20220722_162826.jpg",
+        "height": "small",
+        "desktop_image_width": "medium",
+        "layout": "image_first",
+        "desktop_content_position": "top",
+        "desktop_content_alignment": "left",
+        "content_layout": "no-overlap",
+        "color_scheme": "background-1",
+        "mobile_content_alignment": "left",
+        "padding_top": 36,
+        "padding_bottom": 36
+      }
+    },
+    "1658497690ee9a6558": {
+      "type": "featured-product",
+      "blocks": {
+        "16584976904f6c7773-1": {
+          "type": "title",
+          "settings": {
+            "heading_size": "h1"
+          }
+        },
+        "16584976904f6c7773-2": {
+          "type": "text",
+          "settings": {
+            "text": "{{ section.settings.product.metafields.descriptors.subtitle.value }}",
+            "text_style": "subtitle"
+          }
+        },
+        "16584976904f6c7773-3": {
+          "type": "price",
+          "settings": {
+          }
+        },
+        "16584976904f6c7773-4": {
+          "type": "variant_picker",
+          "settings": {
+            "picker_type": "button"
+          }
+        },
+        "16584976904f6c7773-5": {
+          "type": "quantity_selector",
+          "settings": {
+          }
+        },
+        "16584976904f6c7773-6": {
+          "type": "buy_buttons",
+          "settings": {
+            "show_dynamic_checkout": true
+          }
+        }
+      },
+      "block_order": [
+        "16584976904f6c7773-1",
+        "16584976904f6c7773-2",
+        "16584976904f6c7773-3",
+        "16584976904f6c7773-4",
+        "16584976904f6c7773-5",
+        "16584976904f6c7773-6"
+      ],
+      "settings": {
+        "product": "yanoman-yugioh-sized-sleeves",
+        "color_scheme": "background-1",
+        "secondary_background": false,
+        "hide_variants": false,
+        "enable_video_looping": false,
+        "padding_top": 36,
+        "padding_bottom": 36
+      }
     }
   },
   "order": [
     "image_banner",
-    "1658491905309161e9"
+    "1658491905309161e9",
+    "1658497791d7b2c3b6",
+    "1658497690ee9a6558"
   ]
 }
