@@ -178,6 +178,24 @@
             "link": ""
           }
         },
+        "c88baa0d-aee0-4c0e-b503-39e0aa961e18": {
+          "type": "column",
+          "settings": {
+            "title": "Enough to Sleeve a Whole Deck",
+            "text": "",
+            "link_label": "",
+            "link": ""
+          }
+        },
+        "8e1bc0be-eae1-4640-b348-6bc685ef44f2": {
+          "type": "column",
+          "settings": {
+            "title": "Thin Enough To Shuffle",
+            "text": "",
+            "link_label": "",
+            "link": ""
+          }
+        },
         "b3021642-b868-472b-810f-1007015cd111": {
           "type": "column",
           "settings": {
@@ -202,6 +220,8 @@
       "block_order": [
         "165849850913c1a0ab-0",
         "165849850913c1a0ab-1",
+        "c88baa0d-aee0-4c0e-b503-39e0aa961e18",
+        "8e1bc0be-eae1-4640-b348-6bc685ef44f2",
         "b3021642-b868-472b-810f-1007015cd111",
         "daba6721-9b49-41b3-ae45-831c233b14c1"
       ],
