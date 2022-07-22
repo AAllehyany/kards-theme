@@ -125,14 +125,14 @@
         "16584977914ec132aa-0": {
           "type": "heading",
           "settings": {
-            "heading": "Life-Long Sleeves",
+            "heading": "Show Off Your Character Sleeves",
             "heading_size": "h1"
           }
         },
         "16584977914ec132aa-1": {
           "type": "text",
           "settings": {
-            "text": "<p>With their power and toughness, these sleeves will last you a lifetime. They will prevent damage from reaching to your precious oversleevs and cards, and will stay clean for a long time.<\/p>",
+            "text": "<p>While these sleeves are thick, they are clear enough to make your character sleeves <strong>shine <\/strong>through. Flex your amazing character sleeves without worrying about them getting damaged at all!<\/p>",
             "text_style": "body"
           }
         }
@@ -144,9 +144,9 @@
       "settings": {
         "image": "shopify:\/\/shop_images\/20220722_162826.jpg",
         "height": "small",
-        "desktop_image_width": "medium",
+        "desktop_image_width": "small",
         "layout": "image_first",
-        "desktop_content_position": "top",
+        "desktop_content_position": "middle",
         "desktop_content_alignment": "left",
         "content_layout": "overlap",
         "color_scheme": "accent-1",
@@ -155,89 +155,46 @@
         "padding_bottom": 36
       }
     },
-    "16584985094f903ca3": {
-      "type": "multicolumn",
+    "16584990780b1affa8": {
+      "type": "image-with-text",
       "blocks": {
-        "165849850913c1a0ab-0": {
-          "type": "column",
+        "1658499078952d82e1-0": {
+          "type": "heading",
           "settings": {
-            "image": "shopify:\/\/shop_images\/20220722_163155.jpg",
-            "title": "",
-            "text": "",
-            "link_label": "",
-            "link": ""
+            "heading": "Just Think Enough",
+            "heading_size": "h1"
           }
         },
-        "165849850913c1a0ab-1": {
-          "type": "column",
+        "1658499078952d82e1-1": {
+          "type": "text",
           "settings": {
-            "image": "shopify:\/\/shop_images\/20220722_162816.jpg",
-            "title": "",
-            "text": "",
-            "link_label": "",
-            "link": ""
+            "text": "<p>A fully sleeved deck with these oversleeves are <strong>thick <\/strong>enough to be protected, but <strong>easy<\/strong> enough to shuffle.<\/p>",
+            "text_style": "body"
           }
         },
-        "c88baa0d-aee0-4c0e-b503-39e0aa961e18": {
-          "type": "column",
+        "1658499078952d82e1-2": {
+          "type": "button",
           "settings": {
-            "title": "Enough to Sleeve a Whole Deck",
-            "text": "",
-            "link_label": "",
-            "link": ""
-          }
-        },
-        "8e1bc0be-eae1-4640-b348-6bc685ef44f2": {
-          "type": "column",
-          "settings": {
-            "title": "Thin Enough To Shuffle",
-            "text": "",
-            "link_label": "",
-            "link": ""
-          }
-        },
-        "b3021642-b868-472b-810f-1007015cd111": {
-          "type": "column",
-          "settings": {
-            "image": "shopify:\/\/shop_images\/20220722_162945.jpg",
-            "title": "",
-            "text": "",
-            "link_label": "",
-            "link": ""
-          }
-        },
-        "daba6721-9b49-41b3-ae45-831c233b14c1": {
-          "type": "column",
-          "settings": {
-            "image": "shopify:\/\/shop_images\/20220722_163049.jpg",
-            "title": "",
-            "text": "",
-            "link_label": "",
-            "link": ""
+            "button_label": "Button label",
+            "button_link": ""
           }
         }
       },
       "block_order": [
-        "165849850913c1a0ab-0",
-        "165849850913c1a0ab-1",
-        "c88baa0d-aee0-4c0e-b503-39e0aa961e18",
-        "8e1bc0be-eae1-4640-b348-6bc685ef44f2",
-        "b3021642-b868-472b-810f-1007015cd111",
-        "daba6721-9b49-41b3-ae45-831c233b14c1"
+        "1658499078952d82e1-0",
+        "1658499078952d82e1-1",
+        "1658499078952d82e1-2"
       ],
       "settings": {
-        "title": "",
-        "heading_size": "h1",
-        "image_width": "full",
-        "image_ratio": "portrait",
-        "columns_desktop": 2,
-        "column_alignment": "left",
-        "background_style": "primary",
-        "button_label": "",
-        "button_link": "",
-        "color_scheme": "background-1",
-        "columns_mobile": "1",
-        "swipe_on_mobile": false,
+        "image": "shopify:\/\/shop_images\/20220722_162945.jpg",
+        "height": "small",
+        "desktop_image_width": "small",
+        "layout": "text_first",
+        "desktop_content_position": "bottom",
+        "desktop_content_alignment": "left",
+        "content_layout": "overlap",
+        "color_scheme": "background-2",
+        "mobile_content_alignment": "left",
         "padding_top": 36,
         "padding_bottom": 36
       }
@@ -304,7 +261,7 @@
     "image_banner",
     "1658491905309161e9",
     "1658497791d7b2c3b6",
-    "16584985094f903ca3",
+    "16584990780b1affa8",
     "1658497690ee9a6558"
   ]
 }
