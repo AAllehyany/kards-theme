@@ -202,8 +202,8 @@
           "type": "column",
           "settings": {
             "image": "shopify:\/\/shop_images\/20220722_163155.jpg",
-            "title": "50 Per Pack",
-            "text": "<p>Since you need more than 50 for your full Yu-Gi-Oh! Deck, you will only ever need to buy 2 packs. If you play other games like Cardfight!! Vanguard, as well as Battle Spirit, you are fine with one pack!<\/p>",
+            "title": "",
+            "text": "",
             "link_label": "",
             "link": ""
           }
@@ -212,8 +212,8 @@
           "type": "column",
           "settings": {
             "image": "shopify:\/\/shop_images\/20220722_162816.jpg",
-            "title": "Fits Snuggly",
-            "text": "<p>Fits your sleeves perfectly. The cards inside will not move around when you shuffle.<\/p>",
+            "title": "",
+            "text": "",
             "link_label": "",
             "link": ""
           }
