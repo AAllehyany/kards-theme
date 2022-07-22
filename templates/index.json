@@ -83,12 +83,36 @@
             "heading": "Oversleeves",
             "overlay_opacity": 0
           }
+        },
+        "71dd2946-ad1e-4b1c-908f-1d4ce23c865d": {
+          "type": "custom",
+          "settings": {
+            "promotion_link": "",
+            "promo_bg": "shopify:\/\/shop_images\/20220722_152148.jpg",
+            "promo_width": 25,
+            "promo_height": "small",
+            "heading": "Character Sleeves",
+            "overlay_opacity": 0
+          }
+        },
+        "dcf0f1f2-25ab-4a16-aeb1-b81076f5c827": {
+          "type": "custom",
+          "settings": {
+            "promotion_link": "",
+            "promo_bg": "shopify:\/\/shop_images\/20220722_152502.jpg",
+            "promo_width": 50,
+            "promo_height": "small",
+            "heading": "Playmats",
+            "overlay_opacity": 0
+          }
         }
       },
       "block_order": [
         "101b407d-607f-4213-b2ed-33343f67e309",
         "0f060009-00cb-4bab-901d-abc97b6e3dfc",
-        "cf56167e-0596-4055-a575-552f91de6e0c"
+        "cf56167e-0596-4055-a575-552f91de6e0c",
+        "71dd2946-ad1e-4b1c-908f-1d4ce23c865d",
+        "dcf0f1f2-25ab-4a16-aeb1-b81076f5c827"
       ],
       "settings": {
         "color_scheme": "background-2"
