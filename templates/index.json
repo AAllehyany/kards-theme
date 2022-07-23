@@ -205,6 +205,38 @@
         "padding_top": 36,
         "padding_bottom": 36
       }
+    },
+    "165856406512bfb711": {
+      "type": "collage",
+      "blocks": {
+        "de09793c-843c-4f2d-b248-5fa0c6667cce": {
+          "type": "image",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/20220722_173032.jpg",
+            "image_padding": false
+          }
+        },
+        "1658564065a2b571da-1": {
+          "type": "product",
+          "settings": {
+            "product": "yanoman-yugioh-sized-sleeves",
+            "second_image": false
+          }
+        }
+      },
+      "block_order": [
+        "de09793c-843c-4f2d-b248-5fa0c6667cce",
+        "1658564065a2b571da-1"
+      ],
+      "settings": {
+        "heading": "Sleeve Up Your Deck Now",
+        "heading_size": "h1",
+        "desktop_layout": "left",
+        "mobile_layout": "collage",
+        "color_scheme": "background-1",
+        "padding_top": 36,
+        "padding_bottom": 36
+      }
     }
   },
   "order": [
@@ -212,6 +244,7 @@
     "1658562854b725c30b",
     "165856326925c03037",
     "1658563487b797e285",
-    "1658563906820659c5"
+    "1658563906820659c5",
+    "165856406512bfb711"
   ]
 }
