@@ -1,51 +1,60 @@
 {
   "sections": {
-    "1658560627ad4caccc": {
-      "type": "image-banner",
+    "1658497690ee9a6558": {
+      "type": "featured-product",
       "blocks": {
-        "1658560627d414b29b-0": {
-          "type": "heading",
+        "16584976904f6c7773-1": {
+          "type": "title",
           "settings": {
-            "heading": "The Only Oversleeves You need",
             "heading_size": "h1"
           }
         },
-        "1658560627d414b29b-1": {
+        "16584976904f6c7773-2": {
           "type": "text",
           "settings": {
-            "text": "Strong enough to protect your sleeves, and clear enough to let them shine through.",
-            "text_style": "body"
+            "text": "{{ section.settings.product.metafields.descriptors.subtitle.value }}",
+            "text_style": "subtitle"
           }
         },
-        "1658560627d414b29b-2": {
-          "type": "buttons",
+        "16584976904f6c7773-3": {
+          "type": "price",
           "settings": {
-            "button_label_1": "Get It Now",
-            "button_link_1": "shopify:\/\/products\/yanoman-yugioh-sized-sleeves",
-            "button_style_secondary_1": false,
-            "button_label_2": "",
-            "button_link_2": "",
-            "button_style_secondary_2": false
+          }
+        },
+        "16584976904f6c7773-4": {
+          "type": "variant_picker",
+          "settings": {
+            "picker_type": "button"
+          }
+        },
+        "16584976904f6c7773-5": {
+          "type": "quantity_selector",
+          "settings": {
+          }
+        },
+        "16584976904f6c7773-6": {
+          "type": "buy_buttons",
+          "settings": {
+            "show_dynamic_checkout": true
           }
         }
       },
       "block_order": [
-        "1658560627d414b29b-0",
-        "1658560627d414b29b-1",
-        "1658560627d414b29b-2"
+        "16584976904f6c7773-1",
+        "16584976904f6c7773-2",
+        "16584976904f6c7773-3",
+        "16584976904f6c7773-4",
+        "16584976904f6c7773-5",
+        "16584976904f6c7773-6"
       ],
       "settings": {
-        "image": "shopify:\/\/shop_images\/header.png",
-        "image_overlay_opacity": 0,
-        "image_height": "medium",
-        "adapt_height_first_image": true,
-        "desktop_content_position": "middle-left",
-        "show_text_box": true,
-        "desktop_content_alignment": "left",
-        "color_scheme": "accent-2",
-        "mobile_content_alignment": "center",
-        "stack_images_on_mobile": true,
-        "show_text_below": true
+        "product": "yanoman-yugioh-sized-sleeves",
+        "color_scheme": "background-1",
+        "secondary_background": false,
+        "hide_variants": false,
+        "enable_video_looping": false,
+        "padding_top": 36,
+        "padding_bottom": 36
       }
     },
     "165856178836e583f0": {
@@ -148,69 +157,11 @@
         "padding_top": 8,
         "padding_bottom": 36
       }
-    },
-    "1658497690ee9a6558": {
-      "type": "featured-product",
-      "blocks": {
-        "16584976904f6c7773-1": {
-          "type": "title",
-          "settings": {
-            "heading_size": "h1"
-          }
-        },
-        "16584976904f6c7773-2": {
-          "type": "text",
-          "settings": {
-            "text": "{{ section.settings.product.metafields.descriptors.subtitle.value }}",
-            "text_style": "subtitle"
-          }
-        },
-        "16584976904f6c7773-3": {
-          "type": "price",
-          "settings": {
-          }
-        },
-        "16584976904f6c7773-4": {
-          "type": "variant_picker",
-          "settings": {
-            "picker_type": "button"
-          }
-        },
-        "16584976904f6c7773-5": {
-          "type": "quantity_selector",
-          "settings": {
-          }
-        },
-        "16584976904f6c7773-6": {
-          "type": "buy_buttons",
-          "settings": {
-            "show_dynamic_checkout": true
-          }
-        }
-      },
-      "block_order": [
-        "16584976904f6c7773-1",
-        "16584976904f6c7773-2",
-        "16584976904f6c7773-3",
-        "16584976904f6c7773-4",
-        "16584976904f6c7773-5",
-        "16584976904f6c7773-6"
-      ],
-      "settings": {
-        "product": "yanoman-yugioh-sized-sleeves",
-        "color_scheme": "background-1",
-        "secondary_background": false,
-        "hide_variants": false,
-        "enable_video_looping": false,
-        "padding_top": 36,
-        "padding_bottom": 36
-      }
     }
   },
   "order": [
-    "1658560627ad4caccc",
+    "1658497690ee9a6558",
     "165856178836e583f0",
-    "16585621507cf71b38",
-    "1658497690ee9a6558"
+    "16585621507cf71b38"
   ]
 }
