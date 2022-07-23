@@ -48,187 +48,57 @@
         "show_text_below": true
       }
     },
-    "image_banner": {
-      "type": "image-banner",
-      "disabled": true,
+    "165856178836e583f0": {
+      "type": "multicolumn",
       "blocks": {
-        "heading": {
-          "type": "heading",
+        "1658561788e96da72e-0": {
+          "type": "column",
           "settings": {
-            "heading": "The Perfect Solution to Your Character Sleeves",
-            "heading_size": "h1"
+            "image": "shopify:\/\/shop_images\/20220722_173032.jpg",
+            "title": "",
+            "text": "",
+            "link_label": "",
+            "link": ""
           }
         },
-        "b0d6842f-dcc8-40e0-be03-30250e221fc4": {
-          "type": "buttons",
+        "1658561788e96da72e-2": {
+          "type": "column",
           "settings": {
-            "button_label_1": "GET IT NOW",
-            "button_link_1": "shopify:\/\/products\/yanoman-yugioh-sized-sleeves",
-            "button_style_secondary_1": false,
-            "button_label_2": "",
-            "button_link_2": "",
-            "button_style_secondary_2": false
+            "title": "Increase Longevity of Your Decks",
+            "text": "<p>The Yanoman Overguard Z Jr provides solid protection for your decks so you can keep them with you for a long time and build stronger memories.<\/p>",
+            "link_label": "Buy it now",
+            "link": "shopify:\/\/products\/yanoman-yugioh-sized-sleeves"
+          }
+        },
+        "1658561788e96da72e-1": {
+          "type": "column",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/20220722_172608.jpg",
+            "title": "",
+            "text": "",
+            "link_label": "",
+            "link": ""
           }
         }
       },
       "block_order": [
-        "heading",
-        "b0d6842f-dcc8-40e0-be03-30250e221fc4"
+        "1658561788e96da72e-0",
+        "1658561788e96da72e-2",
+        "1658561788e96da72e-1"
       ],
       "settings": {
-        "image": "{{ shop.brand.cover_image }}",
-        "image_overlay_opacity": 0,
-        "image_height": "large",
-        "adapt_height_first_image": false,
-        "desktop_content_position": "middle-left",
-        "show_text_box": false,
-        "desktop_content_alignment": "left",
-        "color_scheme": "background-2",
-        "mobile_content_alignment": "center",
-        "stack_images_on_mobile": false,
-        "show_text_below": true
-      }
-    },
-    "1658497791d7b2c3b6": {
-      "type": "image-with-text",
-      "blocks": {
-        "16584977914ec132aa-0": {
-          "type": "heading",
-          "settings": {
-            "heading": "Show Off Your Character Sleeves",
-            "heading_size": "h1"
-          }
-        },
-        "16584977914ec132aa-1": {
-          "type": "text",
-          "settings": {
-            "text": "<p>While these sleeves are thick, they are clear enough to make your character sleeves <strong>shine <\/strong>through. Flex your amazing character sleeves without worrying about them getting damaged at all!<\/p>",
-            "text_style": "body"
-          }
-        }
-      },
-      "block_order": [
-        "16584977914ec132aa-0",
-        "16584977914ec132aa-1"
-      ],
-      "settings": {
-        "image": "shopify:\/\/shop_images\/20220722_162826.jpg",
-        "height": "small",
-        "desktop_image_width": "small",
-        "layout": "image_first",
-        "desktop_content_position": "middle",
-        "desktop_content_alignment": "left",
-        "content_layout": "overlap",
-        "color_scheme": "accent-1",
-        "mobile_content_alignment": "left",
-        "padding_top": 36,
-        "padding_bottom": 36
-      }
-    },
-    "16584990780b1affa8": {
-      "type": "image-with-text",
-      "blocks": {
-        "1658499078952d82e1-0": {
-          "type": "heading",
-          "settings": {
-            "heading": "Just Thick Enough",
-            "heading_size": "h1"
-          }
-        },
-        "1658499078952d82e1-1": {
-          "type": "text",
-          "settings": {
-            "text": "<p>A fully sleeved deck with these oversleeves are <strong>thick <\/strong>enough to be protected, but <strong>easy<\/strong> enough to shuffle.<\/p>",
-            "text_style": "body"
-          }
-        }
-      },
-      "block_order": [
-        "1658499078952d82e1-0",
-        "1658499078952d82e1-1"
-      ],
-      "settings": {
-        "image": "shopify:\/\/shop_images\/20220722_162945.jpg",
-        "height": "small",
-        "desktop_image_width": "small",
-        "layout": "text_first",
-        "desktop_content_position": "bottom",
-        "desktop_content_alignment": "left",
-        "content_layout": "overlap",
-        "color_scheme": "background-2",
-        "mobile_content_alignment": "left",
-        "padding_top": 36,
-        "padding_bottom": 36
-      }
-    },
-    "1658499322370453c5": {
-      "type": "image-with-text",
-      "blocks": {
-        "1658499322bfcedd22-0": {
-          "type": "heading",
-          "settings": {
-            "heading": "One Pack Per Deck",
-            "heading_size": "h1"
-          }
-        },
-        "1658499322bfcedd22-1": {
-          "type": "text",
-          "settings": {
-            "text": "<p>With each pack containing 50 pieces, you only need one pack to sleeve up your whole deck.<\/p>",
-            "text_style": "body"
-          }
-        }
-      },
-      "block_order": [
-        "1658499322bfcedd22-0",
-        "1658499322bfcedd22-1"
-      ],
-      "settings": {
-        "image": "shopify:\/\/shop_images\/20220722_163155.jpg",
-        "height": "adapt",
-        "desktop_image_width": "small",
-        "layout": "image_first",
-        "desktop_content_position": "middle",
-        "desktop_content_alignment": "left",
-        "content_layout": "no-overlap",
+        "title": "",
+        "heading_size": "h1",
+        "image_width": "full",
+        "image_ratio": "square",
+        "columns_desktop": 3,
+        "column_alignment": "left",
+        "background_style": "primary",
+        "button_label": "",
+        "button_link": "",
         "color_scheme": "background-1",
-        "mobile_content_alignment": "left",
-        "padding_top": 36,
-        "padding_bottom": 36
-      }
-    },
-    "1658499487ac88876d": {
-      "type": "image-with-text",
-      "blocks": {
-        "1658499487c43cadba-0": {
-          "type": "heading",
-          "settings": {
-            "heading": "Perfectly Fits",
-            "heading_size": "h1"
-          }
-        },
-        "1658499487c43cadba-1": {
-          "type": "text",
-          "settings": {
-            "text": "<p>Fits over your sleeves perfectly with no space for your character sleeves to move around!<\/p>",
-            "text_style": "body"
-          }
-        }
-      },
-      "block_order": [
-        "1658499487c43cadba-0",
-        "1658499487c43cadba-1"
-      ],
-      "settings": {
-        "image": "shopify:\/\/shop_images\/20220722_162814.jpg",
-        "height": "adapt",
-        "desktop_image_width": "small",
-        "layout": "text_first",
-        "desktop_content_position": "bottom",
-        "desktop_content_alignment": "left",
-        "content_layout": "overlap",
-        "color_scheme": "inverse",
-        "mobile_content_alignment": "left",
+        "columns_mobile": "1",
+        "swipe_on_mobile": false,
         "padding_top": 36,
         "padding_bottom": 36
       }
@@ -270,75 +140,6 @@
         "full_width": false,
         "padding_top": 40,
         "padding_bottom": 52
-      }
-    },
-    "1658499847aa25533a": {
-      "type": "collage",
-      "blocks": {
-        "62ff46d8-3dc5-4a35-a4e6-a08bd937551e": {
-          "type": "image",
-          "settings": {
-            "image": "shopify:\/\/shop_images\/20220722_172608.jpg",
-            "image_padding": false
-          }
-        },
-        "80106253-df80-4be9-a085-246f484068e8": {
-          "type": "image",
-          "settings": {
-            "image": "shopify:\/\/shop_images\/20220722_173032.jpg",
-            "image_padding": false
-          }
-        }
-      },
-      "block_order": [
-        "62ff46d8-3dc5-4a35-a4e6-a08bd937551e",
-        "80106253-df80-4be9-a085-246f484068e8"
-      ],
-      "settings": {
-        "heading": "Happy Customers Everywhere",
-        "heading_size": "h1",
-        "desktop_layout": "left",
-        "mobile_layout": "collage",
-        "color_scheme": "background-1",
-        "padding_top": 36,
-        "padding_bottom": 36
-      }
-    },
-    "1658500384fe7da494": {
-      "type": "image-with-text",
-      "blocks": {
-        "057bd519-301a-4963-bf3d-f57f3c343293": {
-          "type": "heading",
-          "settings": {
-            "heading": "It is my go to since 2014 and I never looked back",
-            "heading_size": "h1"
-          }
-        },
-        "51d0c85a-2b49-4f36-a5d8-e768419a0cf3": {
-          "type": "caption",
-          "settings": {
-            "caption": "famous youtuber, 2022",
-            "text_style": "caption-with-letter-spacing",
-            "text_size": "large"
-          }
-        }
-      },
-      "block_order": [
-        "057bd519-301a-4963-bf3d-f57f3c343293",
-        "51d0c85a-2b49-4f36-a5d8-e768419a0cf3"
-      ],
-      "settings": {
-        "image": "shopify:\/\/shop_images\/20220722_163049.jpg",
-        "height": "small",
-        "desktop_image_width": "small",
-        "layout": "text_first",
-        "desktop_content_position": "top",
-        "desktop_content_alignment": "left",
-        "content_layout": "no-overlap",
-        "color_scheme": "background-1",
-        "mobile_content_alignment": "left",
-        "padding_top": 36,
-        "padding_bottom": 36
       }
     },
     "1658497690ee9a6558": {
@@ -397,74 +198,12 @@
         "padding_top": 36,
         "padding_bottom": 36
       }
-    },
-    "165856178836e583f0": {
-      "type": "multicolumn",
-      "blocks": {
-        "1658561788e96da72e-0": {
-          "type": "column",
-          "settings": {
-            "image": "shopify:\/\/shop_images\/20220722_173032.jpg",
-            "title": "",
-            "text": "",
-            "link_label": "",
-            "link": ""
-          }
-        },
-        "1658561788e96da72e-2": {
-          "type": "column",
-          "settings": {
-            "title": "Increase Longevity of Your Decks",
-            "text": "<p>The Yanoman Overguard Z Jr provides solid protection for your decks so you can keep them with you for a long time and build stronger memories.<\/p>",
-            "link_label": "Buy it now",
-            "link": "shopify:\/\/products\/yanoman-yugioh-sized-sleeves"
-          }
-        },
-        "1658561788e96da72e-1": {
-          "type": "column",
-          "settings": {
-            "image": "shopify:\/\/shop_images\/20220722_172608.jpg",
-            "title": "",
-            "text": "",
-            "link_label": "",
-            "link": ""
-          }
-        }
-      },
-      "block_order": [
-        "1658561788e96da72e-0",
-        "1658561788e96da72e-2",
-        "1658561788e96da72e-1"
-      ],
-      "settings": {
-        "title": "Multicolumn",
-        "heading_size": "h1",
-        "image_width": "full",
-        "image_ratio": "square",
-        "columns_desktop": 3,
-        "column_alignment": "left",
-        "background_style": "primary",
-        "button_label": "Button label",
-        "button_link": "",
-        "color_scheme": "background-1",
-        "columns_mobile": "1",
-        "swipe_on_mobile": false,
-        "padding_top": 36,
-        "padding_bottom": 36
-      }
     }
   },
   "order": [
     "1658560627ad4caccc",
-    "image_banner",
-    "1658497791d7b2c3b6",
-    "16584990780b1affa8",
-    "1658499322370453c5",
-    "1658499487ac88876d",
+    "165856178836e583f0",
     "165849964445726ae7",
-    "1658499847aa25533a",
-    "1658500384fe7da494",
-    "1658497690ee9a6558",
-    "165856178836e583f0"
+    "1658497690ee9a6558"
   ]
 }
