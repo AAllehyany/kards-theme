@@ -110,6 +110,7 @@
         "1658562150fa9e4fd8-0": {
           "type": "column",
           "settings": {
+            "image": "shopify:\/\/shop_images\/20220722_162826.jpg",
             "title": "Solid Protection and Perfect Fit",
             "text": "<p>Fits perfectly over your sleeves, so your cards will not be moving around inside the sleeves.<\/p>",
             "link_label": "",
@@ -119,6 +120,7 @@
         "1658562150fa9e4fd8-1": {
           "type": "column",
           "settings": {
+            "image": "shopify:\/\/shop_images\/20220722_162814.jpg",
             "title": "Clear and Glossy",
             "text": "<p>Yanoman Overguard Z Jr are clear and glossy, so it allows your character sleeves to shine through.<\/p>",
             "link_label": "",
@@ -134,7 +136,7 @@
         "title": "",
         "heading_size": "h1",
         "image_width": "full",
-        "image_ratio": "adapt",
+        "image_ratio": "square",
         "columns_desktop": 2,
         "column_alignment": "left",
         "background_style": "primary",
