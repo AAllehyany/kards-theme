@@ -61,15 +61,6 @@
             "link": ""
           }
         },
-        "1658561788e96da72e-2": {
-          "type": "column",
-          "settings": {
-            "title": "Increase Longevity of Your Decks",
-            "text": "<p>The Yanoman Overguard Z Jr provides solid protection for your decks so you can keep them with you for a long time and build stronger memories.<\/p>",
-            "link_label": "Buy it now",
-            "link": "shopify:\/\/products\/yanoman-yugioh-sized-sleeves"
-          }
-        },
         "1658561788e96da72e-1": {
           "type": "column",
           "settings": {
@@ -79,15 +70,25 @@
             "link_label": "",
             "link": ""
           }
+        },
+        "9c46ce6a-a2e7-451c-96b1-234291addc80": {
+          "type": "column",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/20220722_162945.jpg",
+            "title": "",
+            "text": "",
+            "link_label": "",
+            "link": ""
+          }
         }
       },
       "block_order": [
         "1658561788e96da72e-0",
-        "1658561788e96da72e-2",
-        "1658561788e96da72e-1"
+        "1658561788e96da72e-1",
+        "9c46ce6a-a2e7-451c-96b1-234291addc80"
       ],
       "settings": {
-        "title": "",
+        "title": "Sleeve Up Your Deck Now",
         "heading_size": "h1",
         "image_width": "full",
         "image_ratio": "square",
@@ -100,6 +101,49 @@
         "columns_mobile": "1",
         "swipe_on_mobile": false,
         "padding_top": 36,
+        "padding_bottom": 0
+      }
+    },
+    "16585621507cf71b38": {
+      "type": "multicolumn",
+      "blocks": {
+        "1658562150fa9e4fd8-0": {
+          "type": "column",
+          "settings": {
+            "title": "Solid Protection and Perfect Fit",
+            "text": "<p>Fits perfectly over your sleeves, so your cards will not be moving around inside the sleeves.<\/p>",
+            "link_label": "",
+            "link": ""
+          }
+        },
+        "1658562150fa9e4fd8-1": {
+          "type": "column",
+          "settings": {
+            "title": "Clear and Glossy",
+            "text": "<p>Yanoman Overguard Z Jr are clear and glossy, so it allows your character sleeves to shine through.<\/p>",
+            "link_label": "",
+            "link": ""
+          }
+        }
+      },
+      "block_order": [
+        "1658562150fa9e4fd8-0",
+        "1658562150fa9e4fd8-1"
+      ],
+      "settings": {
+        "title": "",
+        "heading_size": "h1",
+        "image_width": "full",
+        "image_ratio": "adapt",
+        "columns_desktop": 2,
+        "column_alignment": "left",
+        "background_style": "primary",
+        "button_label": "",
+        "button_link": "",
+        "color_scheme": "background-1",
+        "columns_mobile": "1",
+        "swipe_on_mobile": false,
+        "padding_top": 8,
         "padding_bottom": 36
       }
     },
@@ -203,6 +247,7 @@
   "order": [
     "1658560627ad4caccc",
     "165856178836e583f0",
+    "16585621507cf71b38",
     "165849964445726ae7",
     "1658497690ee9a6558"
   ]
