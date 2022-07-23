@@ -1,7 +1,56 @@
 {
   "sections": {
+    "1658560627ad4caccc": {
+      "type": "image-banner",
+      "blocks": {
+        "1658560627d414b29b-0": {
+          "type": "heading",
+          "settings": {
+            "heading": "The Only Oversleeves You need",
+            "heading_size": "h1"
+          }
+        },
+        "1658560627d414b29b-1": {
+          "type": "text",
+          "settings": {
+            "text": "Strong enough to protect your sleeves, and clear enough to let them shine through.",
+            "text_style": "body"
+          }
+        },
+        "1658560627d414b29b-2": {
+          "type": "buttons",
+          "settings": {
+            "button_label_1": "Get It Now",
+            "button_link_1": "shopify:\/\/products\/yanoman-yugioh-sized-sleeves",
+            "button_style_secondary_1": false,
+            "button_label_2": "",
+            "button_link_2": "",
+            "button_style_secondary_2": false
+          }
+        }
+      },
+      "block_order": [
+        "1658560627d414b29b-0",
+        "1658560627d414b29b-1",
+        "1658560627d414b29b-2"
+      ],
+      "settings": {
+        "image": "shopify:\/\/shop_images\/header.png",
+        "image_overlay_opacity": 0,
+        "image_height": "medium",
+        "adapt_height_first_image": true,
+        "desktop_content_position": "middle-left",
+        "show_text_box": true,
+        "desktop_content_alignment": "left",
+        "color_scheme": "background-1",
+        "mobile_content_alignment": "center",
+        "stack_images_on_mobile": true,
+        "show_text_below": true
+      }
+    },
     "16585030052d45ea4c": {
       "type": "image-with-text",
+      "disabled": true,
       "blocks": {
         "16585030056b25f0c9-0": {
           "type": "heading",
@@ -75,89 +124,6 @@
         "mobile_content_alignment": "center",
         "stack_images_on_mobile": false,
         "show_text_below": true
-      }
-    },
-    "1658491905309161e9": {
-      "type": "promotional-grid",
-      "disabled": true,
-      "blocks": {
-        "101b407d-607f-4213-b2ed-33343f67e309": {
-          "type": "custom",
-          "settings": {
-            "promotion_link": "",
-            "promo_bg": "shopify:\/\/shop_images\/FYHkxGLXEAEiVZH.jpg",
-            "promo_width": 50,
-            "promo_height": "small",
-            "heading": "Complete Tearlaments Deck",
-            "overlay_opacity": 0
-          }
-        },
-        "0f060009-00cb-4bab-901d-abc97b6e3dfc": {
-          "type": "custom",
-          "settings": {
-            "promotion_link": "",
-            "promo_bg": "shopify:\/\/shop_images\/FYCbHR7WAAImPbb.jpg",
-            "promo_width": 50,
-            "promo_height": "medium",
-            "heading": "Complete Spright Deck",
-            "overlay_opacity": 0
-          }
-        },
-        "0a6cde81-f1c2-47f5-9469-95bf5d7579ff": {
-          "type": "custom",
-          "settings": {
-            "promotion_link": "",
-            "promo_bg": "shopify:\/\/shop_images\/20220722_153612.jpg",
-            "promo_width": 100,
-            "promo_height": "medium",
-            "heading": "YuGiOh Singles",
-            "overlay_opacity": 0
-          }
-        },
-        "cf56167e-0596-4055-a575-552f91de6e0c": {
-          "type": "custom",
-          "settings": {
-            "promotion_link": "",
-            "promo_bg": "shopify:\/\/shop_images\/20220721_103909.jpg",
-            "promo_width": 25,
-            "promo_height": "small",
-            "heading": "Oversleeves",
-            "overlay_opacity": 0
-          }
-        },
-        "71dd2946-ad1e-4b1c-908f-1d4ce23c865d": {
-          "type": "custom",
-          "settings": {
-            "promotion_link": "",
-            "promo_bg": "shopify:\/\/shop_images\/20220722_152148.jpg",
-            "promo_width": 25,
-            "promo_height": "small",
-            "heading": "Character Sleeves",
-            "overlay_opacity": 0
-          }
-        },
-        "dcf0f1f2-25ab-4a16-aeb1-b81076f5c827": {
-          "type": "custom",
-          "settings": {
-            "promotion_link": "",
-            "promo_bg": "shopify:\/\/shop_images\/20220722_152502.jpg",
-            "promo_width": 50,
-            "promo_height": "small",
-            "heading": "Playmats",
-            "overlay_opacity": 0
-          }
-        }
-      },
-      "block_order": [
-        "101b407d-607f-4213-b2ed-33343f67e309",
-        "0f060009-00cb-4bab-901d-abc97b6e3dfc",
-        "0a6cde81-f1c2-47f5-9469-95bf5d7579ff",
-        "cf56167e-0596-4055-a575-552f91de6e0c",
-        "71dd2946-ad1e-4b1c-908f-1d4ce23c865d",
-        "dcf0f1f2-25ab-4a16-aeb1-b81076f5c827"
-      ],
-      "settings": {
-        "color_scheme": "background-2"
       }
     },
     "1658497791d7b2c3b6": {
@@ -471,9 +437,9 @@
     }
   },
   "order": [
+    "1658560627ad4caccc",
     "16585030052d45ea4c",
     "image_banner",
-    "1658491905309161e9",
     "1658497791d7b2c3b6",
     "16584990780b1affa8",
     "1658499322370453c5",
