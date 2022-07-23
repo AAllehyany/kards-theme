@@ -153,19 +153,20 @@
         "1658563487c9612789-0": {
           "type": "heading",
           "settings": {
-            "heading": "Image with text",
+            "heading": "Clear and Glossy",
             "heading_size": "h1"
           }
         },
         "1658563487c9612789-1": {
           "type": "text",
           "settings": {
-            "text": "<p>Pair text with an image to focus on your chosen product, collection, or blog post. Add details on availability, style, or even provide a review.<\/p>",
+            "text": "<p>Allows you to show off your character sleeves in its full glory.<\/p>",
             "text_style": "body"
           }
         },
         "1658563487c9612789-2": {
           "type": "button",
+          "disabled": true,
           "settings": {
             "button_label": "Button label",
             "button_link": ""
